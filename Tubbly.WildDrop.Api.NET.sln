@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tubbly.WildDrop.Api.NET", "Tubbly.WildDrop.Api.NET\Tubbly.WildDrop.Api.NET.csproj", "{ABD2C30A-BB62-4848-94A0-7F911DFF95F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tubbly.WildDrop.Api.NET.Demo", "Tubbly.WildDrop.Api.NET.Demo\Tubbly.WildDrop.Api.NET.Demo.csproj", "{D746711B-EB27-4B77-ADF6-894C31B7E5C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD2C30A-BB62-4848-94A0-7F911DFF95F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD2C30A-BB62-4848-94A0-7F911DFF95F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD2C30A-BB62-4848-94A0-7F911DFF95F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD2C30A-BB62-4848-94A0-7F911DFF95F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D746711B-EB27-4B77-ADF6-894C31B7E5C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D746711B-EB27-4B77-ADF6-894C31B7E5C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D746711B-EB27-4B77-ADF6-894C31B7E5C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D746711B-EB27-4B77-ADF6-894C31B7E5C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84C0AFDC-EFB3-4606-B943-B8EC3E4BD303}
+	EndGlobalSection
+EndGlobal
