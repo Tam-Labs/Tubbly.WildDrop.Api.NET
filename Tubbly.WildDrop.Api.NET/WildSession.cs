@@ -45,7 +45,9 @@ public class WildSession {
 
         request.Headers.Add("wd-session", SessionHashHex);
 
-        await HttpClient.SendAsync(request);
+        var response = await HttpClient.SendAsync(request);
+
+        response.EnsureSuccessStatusCode();
     }
 
     public async Task<GetWalletBalanceResponse> GetWalletBalanceAsync(string address) {
