@@ -1,4 +1,4 @@
-﻿namespace Tubbly.WildDrop.Api.NET;
+﻿namespace WildDrop.Api.NET;
 
 public class WildSession {
     class QueryBody {

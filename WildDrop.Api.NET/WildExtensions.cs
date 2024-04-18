@@ -1,4 +1,4 @@
-﻿namespace Tubbly.WildDrop.Api.NET;
+﻿namespace WildDrop.Api.NET;
 
 public static class WildExtensions {
     public static string ToHexString(this byte[] bytes) {

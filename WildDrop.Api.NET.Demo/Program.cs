@@ -1,4 +1,4 @@
-﻿using Tubbly.WildDrop.Api.NET;
+﻿using WildDrop.Api.NET;
 
 internal class Program {
     static async Task Main(string[] args) {

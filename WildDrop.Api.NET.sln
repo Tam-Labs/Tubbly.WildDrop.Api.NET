@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tubbly.WildDrop.Api.NET", "Tubbly.WildDrop.Api.NET\Tubbly.WildDrop.Api.NET.csproj", "{ABD2C30A-BB62-4848-94A0-7F911DFF95F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WildDrop.Api.NET", "WildDrop.Api.NET\WildDrop.Api.NET.csproj", "{ABD2C30A-BB62-4848-94A0-7F911DFF95F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tubbly.WildDrop.Api.NET.Demo", "Tubbly.WildDrop.Api.NET.Demo\Tubbly.WildDrop.Api.NET.Demo.csproj", "{D746711B-EB27-4B77-ADF6-894C31B7E5C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WildDrop.Api.NET.Demo", "WildDrop.Api.NET.Demo\WildDrop.Api.NET.Demo.csproj", "{D746711B-EB27-4B77-ADF6-894C31B7E5C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

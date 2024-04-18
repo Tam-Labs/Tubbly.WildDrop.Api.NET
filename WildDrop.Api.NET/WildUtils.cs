@@ -1,4 +1,4 @@
-﻿namespace Tubbly.WildDrop.Api.NET;
+﻿namespace WildDrop.Api.NET;
 
 public static class WildUtils {
     public static RSA ImportRSAFromFile(string path, string passphrase) {
