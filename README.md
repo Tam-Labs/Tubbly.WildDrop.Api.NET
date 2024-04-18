@@ -1,9 +1,9 @@
-# Tubbly.WildDrop.Api.NET
+# WildDrop.Api.NET
 
 ## Usage
 
 ```cs
-using Tubbly.WildDrop.Api.NET;
+using WildDrop.Api.NET;
 
 internal class Program {
     static async Task Main(string[] args) {
