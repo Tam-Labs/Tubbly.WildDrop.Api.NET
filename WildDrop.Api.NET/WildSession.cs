@@ -3,16 +3,16 @@
 public class WildSession {
     class QueryBody {
         public string QueryName { get; set; } = string.Empty;
-        public object[]? Arguments { get; set; }
+        public object[] Arguments { get; set; }
     }
 
     class TransactBody {
         public string TransactName { get; set; } = string.Empty;
-        public object[]? Arguments { get; set; }
+        public object[] Arguments { get; set; }
     }
 
     class ResultBody {
-        public object? Result { get; set; }
+        public object Result { get; set; }
     }
 
     public string Hash => SessionHashHex;
